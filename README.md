@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @HaroonAyub
 - 👀 I’m interested in EVERYTHING ROBOTICS
-- 🌱 I’m currently learning Robotics and Artificial Intelligence. Current project is --- Designing a Healthcare robot for Eldercare using ROS2
+- 🌱 I’m currently learning Robotics and Artificial Intelligence. Current project is --- Designing a Healthcare robot for Eldercare
 - 💞️ I’m looking to collaborate on Social Robots for Rehabiltation, healthcare and Last Mile Transit Robotics.
-- 📫 How to reach me -- my email address is haroon-ayub@outlook.com or you can reach me through twitter(X) @harpoona41
+- 📫 How to reach me -- my email address is haroon-ayub@outlook.com or you can reach me through twitter(X) @harpoona41 and my LinkedIn Haroon Ayub
 - 😄 Pronouns: ...He/Him
 - ⚡ Fun fact: ... I have 5 Cats...
 
